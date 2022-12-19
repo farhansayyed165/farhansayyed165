@@ -1,4 +1,7 @@
-<h3 align="center">I'm a student learning Machine learning and Full Stack Development!</h3>
+<h1 align="center">I'm a student learning Machine learning and Full Stack Development!</h1>
+<br>
+<br>
+<p align="center"><a href="#"><img height = "250" width="400px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/running-gif.gif?raw=true" /></a></p>
 
 
 - 🌱 I’m currently learning **Django and Machine Learning Algorithms**
