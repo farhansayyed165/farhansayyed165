@@ -1,7 +1,7 @@
 <h3 align="center">I'm a student learning Machine learning and Full Stack Development!</h3>
 <br>
 <br>
-<p align="center"><a href="#"><div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/IBawXRqkcH4ALM4ets" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/night-fish-cormoran-fishing-IBawXRqkcH4ALM4ets">via GIPHY</a></p>
+<p align="center"><a href="#"><div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/IBawXRqkcH4ALM4ets" width="100%" height="100%" style="position:absolute" frameBorder="0" ></img></div><p><a href="https://giphy.com/gifs/night-fish-cormoran-fishing-IBawXRqkcH4ALM4ets">via GIPHY</a></p>
 </a></p>
 
 
