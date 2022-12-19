@@ -1,7 +1,7 @@
 <h3 align="center">I'm a student learning Machine learning and Full Stack Development!</h3>
 <br>
 <br>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=farhansayyed165&style=circle&color=yello" alt="views"/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=farhansayyed165&style=circle&color=yellow" alt="views"/></div>
 <p align="center"><a href="#"><img height = "480px" width="384px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(1).gif?raw=true" /></a></p>
 <br>
 <br>
