@@ -1,7 +1,7 @@
 <h3 align="center">I'm a student learning Machine learning and Full Stack Development!</h3>
 <br>
 <br>
-<p align="center"><a href="#"><img height = "384px" width="480px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(1).gif?raw=true" /></a></p>
+<p align="center"><a href="#"><img height = "480px" width="384px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(1).gif?raw=true" /></a></p>
 
 
 - 🌱 I’m currently learning **Django and Machine Learning Algorithms**
