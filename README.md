@@ -1,8 +1,7 @@
 <h3 align="center">I'm a student learning Machine learning and Full Stack Development!</h3>
 <br>
 <br>
-<p align="center"><a href="#"><div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/IBawXRqkcH4ALM4ets" width="100%" height="100%" style="position:absolute" frameBorder="0" ></img></div><p><a href="https://giphy.com/gifs/night-fish-cormoran-fishing-IBawXRqkcH4ALM4ets">via GIPHY</a></p>
-</a></p>
+<p align="center"><a href="#"><img height = "250" width="400px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(1).gif?raw=true" /></a></p>
 
 
 - 🌱 I’m currently learning **Django and Machine Learning Algorithms**
@@ -15,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@fsay165" target="blank"><img align="center" padding = 20px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fsay165" height="30" width="40" /></a>
+<a href="https://twitter.com/@fsay165" target="blank"><img align="center" padding = 200px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fsay165" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/farhan-sayyed-49a71b243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-sayyed-49a71b243" height="30" width="40" /></a>
 <a href="https://instagram.com/farhansayyed165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhansayyed165" height="30" width="40" /></a>
 <a href="https://medium.com/@farhansayyed1656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farhansayyed1656" height="30" width="40" /></a>
