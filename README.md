@@ -14,8 +14,8 @@
 
 - ⚡ Fun fact **I am a Photographer too!**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/@fsay165" target="blank"><img align="center" padding = 200px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fsay165" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/farhan-sayyed-49a71b243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-sayyed-49a71b243" height="30" width="40" /></a>
 <a href="https://instagram.com/farhansayyed165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhansayyed165" height="30" width="40" /></a>
