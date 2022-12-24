@@ -11,7 +11,7 @@
 <!--What I do-->
 - 🌱 I’m currently learning **Django and Machine Learning Algorithms**
 
-- 📝 I regularly write articles on [https://medium.com/@farhansayyed1656](https://medium.com/@farhansayyed1656)
+- 📝 I regularly write articles on [Medium](https://medium.com/@farhansayyed1656)
 
 - 📫 How to reach me **farhansayyed165@gmail.com**
 
