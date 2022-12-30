@@ -1,15 +1,17 @@
 <!--Headline-->
-<h3 align="center">I'm a student learning Machine learning and Full Stack Development!</h3>
+<h3 align="center">Hi Farhan this side✌</h3>
 <br>
-<br>
+<!-- https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(1).gif?raw=true -->
 <!-- Views and Photo-->
 <div align="center"><img src="https://komarev.com/ghpvc/?username=farhansayyed165&style=circle&color=blue" alt="views"/></div>
-<p align="center"><a href="#"><img height = "480px" width="384px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(1).gif?raw=true" /></a></p>
+<br>
+<p align="center"><a href="#"><img height = "208px" width="480px"alt="" src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" /></a></p>
 <br>
 <br>
 
 <!--What I do-->
-- 🌱 I’m currently learning **Django and Machine Learning Algorithms**
+
+- 🌱 I’m currently learning **Html, CSS, Javascript and Machine Learning Algorithms**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@farhansayyed1656)
 
