@@ -5,7 +5,7 @@
 <!-- Views and Photo-->
 <div align="center"><img src="https://komarev.com/ghpvc/?username=farhansayyed165&style=circle&color=blue" alt="views"/></div>
 <br>
-<p align="center"><a href="#"><img height = "498px" width="375px"alt="" src="https://tenor.com/view/medic-tf2-dance-red-tf2-medic-gif-24848392" /></a></p>
+<p align="center"><a href="#"><img height = "280px" width="480px"alt="" src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" /></a></p>
 <br>
 <br>
 
