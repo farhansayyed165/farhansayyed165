@@ -5,7 +5,7 @@
 <!-- Views and Photo-->
 <div align="center"><img src="https://komarev.com/ghpvc/?username=farhansayyed165&style=circle&color=blue" alt="views"/></div>
 <br>
-<p align="center"><a href="#"><img height = "270px" width="480px"alt="" src="https://media.giphy.com/media/kxxNi3DUOqNv9nqfSL/giphy-downsized-large.gif" /></a></p>
+<p align="center"><a href="#"><img height = "360px" width="480px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(2).gif" /></a></p>
 
 <br>
 <br>
