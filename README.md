@@ -1,15 +1,21 @@
 <!--Headline-->
 <div align="center"><img src="https://komarev.com/ghpvc/?username=farhansayyed165&style=circle&color=blue" alt="views"/></div>
-## Hello, Farhan this side✌
-
+<h3>Hello, Farhan this side✌</h3>
+<hr/>
 <p>
-<em> I have a strong sense of curiosity and enjoy learning new things. A lot of things, including coding, music, astronomy, and critical thinkingfuels my mind. I'm excited to collaborate and work on beautiful things with others who share my interests.</em>
+<em> I have a strong sense of curiosity and enjoy learning new things. A lot of things, including coding, music, astronomy, and critical thinking fuels my mind. I'm excited to collaborate and work on beautiful things with others who share my interests.</em>
 </p>
 <!-- https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(1).gif?raw=true -->
 <!-- Views and Photo-->
 <br>
 
-<h3></h3>
+<h3>A few facts about me</h3>
+
+-  I'm now studying React, Django, and Node.js for website development. Additionally, I work on machine learning side projects.
+
+- Occasionally, I publish blogs on Medium.
+
+- Fun fact i'm a photographer too!
 
 <h3>I want to do the following by the end of this year:</h3>
 <!--What I do-->
@@ -31,14 +37,9 @@
 
 
 
-<!--Connect With me-->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@fsay165" target="blank"><img align="center" padding = 200px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fsay165" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/farhan-sayyed-49a71b243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-sayyed-49a71b243" height="30" width="40" /></a>
-<a href="https://instagram.com/farhansayyed165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhansayyed165" height="30" width="40" /></a>
-<a href="https://medium.com/@farhansayyed1656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farhansayyed1656" height="30" width="40" /></a>
-</p>
+<h2 align="center">:pick: Languages and Tools I Know :hammer_and_pick:</h2>     
+
+
 
 <br>
 
@@ -51,5 +52,17 @@
  
 <br>
 <br>
+
+<!--Connect With me-->
+<h2 align="center">:two_men_holding_hands: Connect with me</h2>
+<p align="center">
+<a href="https://twitter.com/@fsay165" target="blank"><img align="center" padding = 200px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fsay165" height="70" width="90" /></a>
+<a href="https://linkedin.com/in/farhan-sayyed-49a71b243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-sayyed-49a71b243" height="70" width="90" /></a>
+<a href="https://instagram.com/farhansayyed165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhansayyed165" height="70" width="90" /></a>
+<a href="https://medium.com/@farhansayyed1656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farhansayyed1656" height="70" width="90" margin=100px/></a>
+</p>
+
 <!--Github Stats--> 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansayyed165&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Farhan's github stats" /></a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansayyed165&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Farhan's github stats" /></a> -->
+
+
