@@ -1,24 +1,35 @@
 <!--Headline-->
-<h3 align="center">Hi Farhan this side✌</h3>
-<br>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=farhansayyed165&style=circle&color=blue" alt="views"/></div>
+## Hello, Farhan this side✌
+
+<p>
+<em> I have a strong sense of curiosity and enjoy learning new things. A lot of things, including coding, music, astronomy, and critical thinkingfuels my mind. I'm excited to collaborate and work on beautiful things with others who share my interests.</em>
+</p>
 <!-- https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(1).gif?raw=true -->
 <!-- Views and Photo-->
-<div align="center"><img src="https://komarev.com/ghpvc/?username=farhansayyed165&style=circle&color=blue" alt="views"/></div>
-<br>
-<p align="center"><a href="#"><img height = "360px" width="480px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(2).gif" /></a></p>
-
-<br>
 <br>
 
+<h3></h3>
+
+<h3>I want to do the following by the end of this year:</h3>
 <!--What I do-->
 
-- 🌱 I’m currently learning **Html, CSS, Javascript and Machine Learning Algorithms**
+- Building genuine, practical **websites and Web apps**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@farhansayyed1656)
+- Making contributions to the **Data Science and Kaggle communities**
 
-- 📫 How to reach me **farhansayyed165@gmail.com**
+- Participate in any open source initiatives, even if it's only writing up documents.
+ 
+- Start my own consistent **Blog**
 
-- ⚡ Fun fact **I am a Photographer too!**
+<!-- <p align="center"><a href="#"><img height = "360px" width="480px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(2).gif" /></a></p> -->
+
+<br>
+<br>
+
+
+
+
 
 <!--Connect With me-->
 <h3 align="left">Connect with me:</h3>
