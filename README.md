@@ -13,22 +13,19 @@
 
 -  I'm now studying React, Django, and Node.js for website development. Additionally, I work on machine learning side projects.
 
-- Occasionally, I publish blogs on Medium.
+- Occasionally, I publish blogs on [**Medium**](https://medium.com/@farhansayyed1656).
 
-- Fun fact i'm a photographer too!
+- Fun fact i'm a [**photographer too**](https://www.instagram.com/farhansayyed165/)!
 
 <br> 
 
 <h3>I want to do the following by the end of this year:</h3>
 <!--What I do-->
 
-- Building genuine, practical **websites and Web apps**
-
-- Making contributions to the **Data Science and Kaggle communities**
-
-- Participate in any open source initiatives, even if it's only writing up documents.
- 
-- Start my own consistent **Blog**
+- *Building genuine, practical **websites and Web apps***
+- *Making contributions to the **Data Science and Kaggle communities***
+- *Participate in any open source initiatives, even if it's only writing up documents.*
+- *Start my own consistent **Blog***
 
 <!-- <p align="center"><a href="#"><img height = "360px" width="480px"alt="" src="https://github.com/farhansayyed165/farhansayyed165/blob/main/giphy%20(2).gif" /></a></p> -->
 
