@@ -69,8 +69,7 @@
 <a href="https://linkedin.com/in/farhan-sayyed-49a71b243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-sayyed-49a71b243" height="70" width="90" /></a>
 <a href="https://instagram.com/farhansayyed165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhansayyed165" height="70" width="90" /></a>
 <a href="https://medium.com/@farhansayyed1656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farhansayyed1656" height="70" width="90" margin=100px/></a>
-</p>
-<a href="mailto: farhansayyed1656@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" alt="farhansayyed1656@gmail.com" height="70" width="90" margin=100px/></a>
+<a href="farhansayyed1656@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" alt="farhansayyed1656@gmail.com" height="70" width="90" margin=100px/></a>
 </p>
 
 <!--Github Stats--> 
