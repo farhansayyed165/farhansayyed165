@@ -60,7 +60,7 @@
 <br>
 <br>
 <!--Connect With me-->
-<h2 align="center">:two_men_holding_hands: Connect with me :dancer:</h2>
+<h1 align="center">:two_men_holding_hands: Connect with me :dancer:</h1>
 <p align="center">
 <a href="https://twitter.com/@fsay165" target="blank"><img align="center" padding = 200px margin-100px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fsay165" height="70" width="90" /></a>
 <a href="https://linkedin.com/in/farhan-sayyed-49a71b243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-sayyed-49a71b243" height="70" width="90" /></a>
