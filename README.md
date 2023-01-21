@@ -70,6 +70,8 @@
 <a href="https://instagram.com/farhansayyed165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhansayyed165" height="70" width="90" /></a>
 <a href="https://medium.com/@farhansayyed1656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farhansayyed1656" height="70" width="90" margin=100px/></a>
 </p>
+<a href="mailto: farhansayyed1656@gmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw2adsUxKBEMnO-px3-rURO8&ust=1674408342038000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjYrayX2fwCFQAAAAAdAAAAABAD" alt="farhansayyed1656@gmail.com" height="70" width="90" margin=100px/></a>
+</p>
 
 <!--Github Stats--> 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansayyed165&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Farhan's github stats" /></a> -->
