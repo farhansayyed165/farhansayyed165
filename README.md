@@ -11,7 +11,9 @@
 
 <h3>A few facts about me</h3>
 
--  I'm now studying React, Django, and Node.js for website development. Additionally, I work on machine learning side projects.
+-  I'm now studying React, Django, and Node.js for website development. 
+
+- Additionally, I work on machine learning side projects.
 
 - Occasionally, I publish blogs on [**Medium**](https://medium.com/@farhansayyed1656).
 
