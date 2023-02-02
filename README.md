@@ -22,6 +22,7 @@
 <br> 
 
 <h3>My goals for this year:</h3>
+
 <!--What I do-->
 
 - *Building genuine, practical **websites and Web apps***
