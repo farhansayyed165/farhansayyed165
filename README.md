@@ -1,6 +1,4 @@
 <!--Headline-->
-<div align="center"><img src="https://komarev.com/ghpvc/?username=farhansayyed165&style=circle&color=blue" alt="views"/></div>
-
 <h3>Hello, Farhan this side✌</h3>
 <hr/>
 <p>
